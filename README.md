@@ -21,8 +21,6 @@ This project demonstrates practical experience in:
 - Orbital mechanics and satellite propagation  
 - ML modeling for rare event classification  
 
-Check out the code on GitHub:  
-👉 [https://github.com/correctsha/space-situational-awareness-ML](https://github.com/correctsha/space-situational-awareness-ML)
 
 ---
 
