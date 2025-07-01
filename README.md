@@ -9,7 +9,7 @@ Our most relevant work involves building a **conjunction assessment screening mo
 ### Key Components
 
 - **Differentiable Propagation with GPU Acceleration**  
-  We use a differentiable version of the SGP4 propagator (`dsgp4`) ( Thier page at [https://github.com/esa/dSGP4](https://github.com/esa/dSGP4) ) implemented in PyTorch, enabling efficient, simultaneous orbital trajectory propagation and native integration with ML-based corrections.
+  I use a differentiable version of the SGP4 propagator (`dsgp4`) ( Thier page at [https://github.com/esa/dSGP4](https://github.com/esa/dSGP4) ) implemented in PyTorch, enabling efficient, simultaneous orbital trajectory propagation and native integration with ML-based corrections.
 
 - **Machine Learning-Based Conjunction Screening**  
   The problem is framed as a classification task, helping reduce the list of candidate conjunctions to those most deserving of computationally expensive follow-up.
