@@ -9,13 +9,10 @@ Our most relevant work involves building a **conjunction assessment screening mo
 ### Key Components
 
 - **Differentiable Propagation with GPU Acceleration**  
-  I use a differentiable version of the SGP4 propagator (`dsgp4`) ( Thier page at [https://github.com/esa/dSGP4](https://github.com/esa/dSGP4) ) implemented in PyTorch, enabling efficient, simultaneous orbital trajectory propagation and native integration with ML-based corrections.
+  I use a differentiable version of the SGP4 propagator (`dsgp4`) ( Thier page at [https://github.com/esa/dSGP4](https://github.com/esa/dSGP4) ) implemented in PyTorch, enabling simultaneous orbital trajectory propagation and native integration with ML-based corrections.
 
 - **Machine Learning-Based Conjunction Screening**  
-  The problem is framed as a classification task, helping reduce the list of candidate conjunctions to those most deserving of computationally expensive follow-up.
-
-- **Autonomous SSA Enabler**  
-  This work is a step toward intelligent automation in space safety operations.
+  The problem is framed as a classification task, helping reduce the list of candidate conjunctions to those most deserving of computationally expensive follow-up. This is roughly modelled after the approach in [*Artificial Intelligence for All vs. All Conjunction Screening.* ](https://oa.upm.es/67167/1/EStevenson_ECSD8_2021_AI_for_all_vs_all_conjunction_screening.pdf) .
 
 ### Highlights
 
@@ -23,8 +20,6 @@ This project demonstrates practical experience in:
 
 - Orbital mechanics and satellite propagation  
 - ML modeling for rare event classification  
-- High-performance computing on GPU  
-- Autonomous decision-making frameworks in SSA
 
 Check out the code on GitHub:  
 👉 [https://github.com/correctsha/space-situational-awareness-ML](https://github.com/correctsha/space-situational-awareness-ML)
