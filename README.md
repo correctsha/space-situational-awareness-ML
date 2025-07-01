@@ -4,7 +4,7 @@
 
 This project develops machine learning solutions for **Space Situational Awareness (SSA)**, specifically targeting **ML-based conjunction assessment**. It aligns with the broader objective of creating AI tools for autonomous space safety.
 
-Our most relevant work involves building a **conjunction assessment screening model** using **Differentiable Propagators** and **Machine Learning**. The goal is to more efficiently triage potential conjunction alerts—a task that will become increasingly challenging with the growing density of LEO objects.
+This work involves building a **conjunction assessment screening model** using **Differentiable Propagators** and **Machine Learning**. The goal is to more efficiently triage potential conjunction alerts—a task that will become increasingly challenging with the growing density of LEO objects.
 
 ### Key Components
 
