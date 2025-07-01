@@ -27,3 +27,5 @@ This project demonstrates practical experience in:
 ## References
 
 Stevenson, Emma, et al. *Artificial Intelligence for All vs. All Conjunction Screening.* Proceedings of the AAS/AIAA Astrodynamics Specialist Conference, 2021.
+
+Acciarini, Giacomo, Atılım Güneş Baydin, and Dario Izzo. "Closing the gap between SGP4 and high-precision propagation via differentiable programming." Acta astronautica 226 (2025): 694-701. [https://doi.org/10.1016/j.actaastro.2024.10.063](https://doi.org/10.1016/j.actaastro.2024.10.063)
